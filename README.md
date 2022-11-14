@@ -1,2 +1,3 @@
 # Calculator
-The Odin Project Calculator
+Calculator built alongside The Odin Project Curriculum
+https://www.theodinproject.com/lessons/foundations-calculator
