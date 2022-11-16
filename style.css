@@ -16,7 +16,6 @@ body {
 
 .container {
     display: grid;
-    margin-top: 2em;
     justify-content: center;
     position: absolute;
     top: 50%;
